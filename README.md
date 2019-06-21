@@ -1,2 +1,2 @@
-# ChessByCpp
-Chess ByC++project
+# CppProjects
+C++projects
