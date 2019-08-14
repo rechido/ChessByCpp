@@ -1,0 +1,14 @@
+﻿  Board.cpp
+d:\visualstudiorepository\sfml_pool\sfml_pool\board.cpp(39): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\visualstudiorepository\sfml_pool\sfml_pool\board.cpp(123): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\visualstudiorepository\sfml_pool\sfml_pool\board.cpp(195): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\visualstudiorepository\sfml_pool\sfml_pool\board.cpp(196): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\visualstudiorepository\sfml_pool\sfml_pool\board.cpp(197): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\visualstudiorepository\sfml_pool\sfml_pool\board.cpp(202): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\visualstudiorepository\sfml_pool\sfml_pool\board.cpp(227): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\visualstudiorepository\sfml_pool\sfml_pool\board.cpp(235): warning C4244: '인수': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+  SFML_Pool.vcxproj -> D:\visualStudioRepository\SFML_Pool\Debug\SFML_Pool.exe
